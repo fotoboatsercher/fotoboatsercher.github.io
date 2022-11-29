@@ -1,5 +1,5 @@
-# fotoboatsercher.github.io
-<!aDOCTYPE html>
+#fotoboatsercher.github.io
+<!DOCTYPE html>
 <html>
 <head>
   <title>Fotoboat</title>
