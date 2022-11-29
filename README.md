@@ -6,6 +6,9 @@
 </head>
 
 <body>
+
+ Hola y bienvenido
+
 <link rel="stylesheet" href="assets/css/pyscript.css" />
 <script defer src="assets/js/pyscript.js"></script>
 
