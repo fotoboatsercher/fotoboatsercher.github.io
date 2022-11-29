@@ -5,8 +5,6 @@
   <title>Fotoboat</title>
 </head>
 
-<body>
-
 
 <link rel="stylesheet" href="assets/css/pyscript.css" />
 <script defer src="assets/js/pyscript.js"></script>
@@ -39,6 +37,6 @@ while y ==1:
      </py-script> 
  
 </div>
-
+<body>
 </body>
 </html> 
